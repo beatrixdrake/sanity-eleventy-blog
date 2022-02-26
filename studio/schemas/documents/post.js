@@ -9,7 +9,7 @@ export default {
       name: 'title',
       type: 'string',
       title: 'Title',
-      description: 'Titles should be catchy, descriptive, and not too long'
+      description: 'Titles should be boring! Vague! and exceedingly wordy!'
     },
     {
       name: 'slug',
